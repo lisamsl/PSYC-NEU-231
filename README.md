@@ -1,7 +1,7 @@
 ## Update 10.16.2018 - tomorrow's class will cover FFT and we'll analyze a few real EEG data sets
 
 
-# PSYC-NEU 231: Tools for Experimental Data Analysis 
+# PSYC-NEU 231: Tools for Experimental Data Analysis  Hello Lisa
 Instructors: John Serences and Timothy Sheehan
 
 Time/Location: Weds 9-11:50am, Crick Conference Room (Mandler Hall Rm 3545, on the Muir Campus). 
